@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:main_cross_alignment/Main-Cross-Alignment.dart';
+import 'package:main_cross_alignment/Edge-Insets.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: .fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const Page1(),
+      home: const EI(),
     );
   }
 }
