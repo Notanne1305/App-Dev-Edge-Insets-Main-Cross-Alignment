@@ -49,7 +49,7 @@ The examples cover both **Row and Column layouts** to demonstrate how widget ali
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/Notanne1305/App-Dev-Edge-Insets-Main-Cross-Alignment
    ```
 
 2. Open the project folder in Visual Studio Code or your preferred IDE.
